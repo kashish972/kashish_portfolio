@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "InternPe",
+    "startDate": "jul, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked on 3 Tasks given by them"],
+    "imageSrc": "history/intern.jpg"
+  },
+  {
+    "role": "Java Certification by ORACLE",
+    "organisation": "ORACLE",
+    
+     
+    "experiences": ["I recently completed a Java Oracle test and am pleased to share that I passed with flying colors! "],
+    "imageSrc": "history/Oracle1.jpeg"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "I've recently completed my Oracle SQL test with success!"
+    ],
+    "imageSrc": "history/Oracle2.png"
+  }
+]
